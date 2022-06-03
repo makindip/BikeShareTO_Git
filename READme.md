@@ -1,4 +1,4 @@
-# Decription
+# Description
 This project uses data accessed through Toronto's Open Data Portal, it includes information 
 on BikeShareTO's ridership over a number of year. Their system includes 6,850 bikes, 
 625 stations with 12,000 docking points. Bike Share Toronto stations are located
