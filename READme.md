@@ -9,7 +9,8 @@ to a change in software providers in July 2016, and the data collection/reportin
 are different compared to previous years. This data varies in documentation from year
 to year. While 2016 - 2019 is provided in quarters, 2020 and beyond is provided as monthly data. 
 
-Reflected in the list below are columns name, as out lined by me for the db naming conventions
+Reflected in the list below are columns name, as outlined by me for the db, the column names 
+have been transformed to refelect the ones below.
  
 | Column Name | Type | Description |
 |:------------|:-----|:-------------------------|
