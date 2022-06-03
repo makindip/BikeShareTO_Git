@@ -11,7 +11,7 @@ to year. While 2016 - 2019 is provided in quarters, 2020 and beyond is provided 
 
 Reflected in the list below are columns name, as out lined by me for the db naming conventions
 
-# Column Name / Type / Column name	Description 
+## Column Name / Type / Column name	Description 
 trip_id, integer, unique integer identifying a trip (primary key)
 start_date, datetime, Start time and date of a trip	
 end_date, datetime,	End time and date of a trip	
