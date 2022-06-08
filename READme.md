@@ -22,3 +22,5 @@ have been transformed to refelect the ones below.
 | end_station_name| string| Name of the station where the trip ended (destination)|
 | bike_id| integer| unique integer	identifying a bike (foreign key)|
 | member_type| string| The type of user that took the trip|
+
+I intend to combine data sources, for example with weather reportage later in the project.

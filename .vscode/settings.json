@@ -1,0 +1,4 @@
+{
+    "python.defaultInterpreterPath": "/Users/kemimakindipe/opt/anaconda3/envs/BikeShareTO_trial/bin/python3",
+    "python.formatting.provider": "black"
+}
